@@ -2,6 +2,8 @@
 
 ## Integration
 [LocalTuya](https://github.com/rospogrigio/localtuya)
+[Get Tuya Local Key](https://github.com/Naxora/Get-Tuya-Local-Key/blob/main/README.md)
+Hint: Use `Smart Life` [IOS](https://apps.apple.com/us/app/smart-life-smart-living/id1115101477) [Android](https://play.google.com/store/apps/details?id=com.tuya.smartlife&hl=en&gl=US) instead of `AlecoAir` app.
 
 ## Mapping
 | ID | HA Type | Status              | Function             | Desc                         |
